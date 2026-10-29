@@ -1,9 +1,9 @@
 {
   "dock_apps": [
-    "com.jerry.livehd",
+    "com.google.android.youtube.tv",
     "org.xbmc.kodi",
-    "com.kkys.tvd1",
-    "com.luna.music"
+    "com.netflix.ninja",
+    "com.android.chrome"
   ],
   "fill_dock": false,
   "hidden_apps": [
@@ -11,10 +11,10 @@
     "com.dangbeimarket"
   ],
   "app_labels": [
-    "com.jerry.livehd=高清电视",
+    "com.google.android.youtube.tv=YouTube",
     "org.xbmc.kodi=Kodi",
-    "com.kkys.tvd1=可可影视",
-    "com.luna.music=汽水音乐"
+    "com.netflix.ninja=Netflix",
+    "com.android.chrome=Chrome"
   ],
   "background_color": "#090C14",
   "wallpaper": true,
