@@ -6,7 +6,7 @@
 
 > 给 Android TV / Google TV 一个干净玻璃桌面 + 开机自动天气。**一条命令装好**，无需 root、无需编译。基于 [CleanYourTV](https://cleanyour.tv)（MIT，作者 Gathin）定制。
 
-![最终效果（实机截图，含自动天气）](themes/glass/final-effect.jpg)
+![玻璃主题效果](themes/glass/screenshot.jpg)
 
 ## 功能特性
 
