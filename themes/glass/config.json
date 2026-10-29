@@ -1,9 +1,9 @@
 {
   "dock_apps": [
-    "com.google.android.youtube.tv",
-    "org.xbmc.kodi",
     "com.netflix.ninja",
-    "com.android.chrome"
+    "com.google.android.youtube.tv",
+    "com.disney.disneyplus",
+    "com.hbo.hbonow"
   ],
   "fill_dock": false,
   "hidden_apps": [
@@ -11,10 +11,10 @@
     "com.dangbeimarket"
   ],
   "app_labels": [
-    "com.google.android.youtube.tv=YouTube",
-    "org.xbmc.kodi=Kodi",
     "com.netflix.ninja=Netflix",
-    "com.android.chrome=Chrome"
+    "com.google.android.youtube.tv=YouTube",
+    "com.disney.disneyplus=Disney+",
+    "com.hbo.hbonow=HBO Max"
   ],
   "background_color": "#090C14",
   "wallpaper": true,
