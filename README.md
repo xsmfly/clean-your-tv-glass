@@ -1,6 +1,10 @@
 # CleanYourTV 玻璃主题定制版（自动天气）
 
-> 基于 [CleanYourTV](https://cleanyour.tv)（MIT，作者 Gathin）的定制构建。在原版简洁桌面的基础上，预置**玻璃主题**并内置**主界面自动天气**。
+[![Release](https://img.shields.io/github/v/release/xsmfly/clean-your-tv-glass)](https://github.com/xsmfly/clean-your-tv-glass/releases)
+[![Downloads](https://img.shields.io/github/downloads/xsmfly/clean-your-tv-glass/total)](https://github.com/xsmfly/clean-your-tv-glass/releases)
+[![License](https://img.shields.io/github/license/xsmfly/clean-your-tv-glass)](LICENSE)
+
+> 给 Android TV / Google TV 一个干净玻璃桌面 + 开机自动天气。**一条命令装好**，无需 root、无需编译。基于 [CleanYourTV](https://cleanyour.tv)（MIT，作者 Gathin）定制。
 
 ![玻璃主题效果](themes/glass/screenshot.jpg)
 
